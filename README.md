@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/ilham-saputra-b39b5b1b8/" target="_blank">
+    <img src="https://img.shields.io/badge/ilham%20saputra-b39b5b1b8?style=for-the-badge&logo=Linkedin&logoColor=d2b270&labelColor=1f2430&color=1f2430">
+  </a>
+  <a href="https://portofolio-ilham.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio%20web-d2b270?style=for-the-badge&logo=Codepen&logoColor=d2b270&labelColor=1f2430&color=1f2430">
+  </a>
+</p>
 
-<!--
-**ilham-sptr/ilham-sptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/ilham-sptr">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MitsukiSaiga&count_private=true&hide=issues&show_icons=true&theme=ayu-mirage" />
+  </a>
+  <a href="https://github.com/ilham-sptr">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitsukiSaiga&layout=compact&theme=ayu-mirage&langs_count=6" />
+  </a>
+</p>
