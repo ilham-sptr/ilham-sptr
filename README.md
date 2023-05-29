@@ -9,9 +9,9 @@
 
 <p align="center">
   <a href="https://github.com/ilham-sptr">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MitsukiSaiga&count_private=true&hide=issues&show_icons=true&theme=ayu-mirage" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilham-sptr&count_private=true&hide=issues&show_icons=true&theme=ayu-mirage" />
   </a>
   <a href="https://github.com/ilham-sptr">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitsukiSaiga&layout=compact&theme=ayu-mirage&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-sptr&layout=compact&theme=ayu-mirage&langs_count=6" />
   </a>
 </p>
