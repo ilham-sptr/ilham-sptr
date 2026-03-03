@@ -54,37 +54,21 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 📝 Form Integration System
-Web-based dynamic form system with role-based authentication (Admin, Monitor, User), 
-real-time data visualization, and Excel export feature.
-
-**Tech:** Next.js, Prisma, PostgreSQL, Vercel
-
----
-
-### 📊 Event Management & Payment Verification System
-System for managing participants, verifying payments, and sending email notifications.
-
-**Tech:** Express.js, Node.js, Nodemailer, MySQL/PostgreSQL
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=ilham-sptr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-sptr&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: (isi link kamu)
-- 📧 Email: (isi email profesional kamu)
-- 🌐 Portfolio: (kalau ada)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ilham-saputra-b39b5b1b8/" target="_blank">
+    💼 LinkedIn
+  </a>
+  &nbsp;•&nbsp;
+  <a href="mailto:ilham.26cand@gmail.com">
+    📧 Email
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://portofolio-ilham.vercel.app/" target="_blank">
+    🌐 Portfolio
+  </a>
+</p>
 
 ---
 
