@@ -25,6 +25,8 @@
 - TypeScript
 - Python
 - C++
+- PHP
+- Golang
 
 ### 🌐 Frontend
 - Next.js
