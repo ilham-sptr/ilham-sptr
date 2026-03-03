@@ -72,8 +72,8 @@ System for managing participants, verifying payments, and sending email notifica
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilham-sptr&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-sptr&layout=compact&theme=tokyonight" height="150"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=ilham-sptr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-sptr&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
 </p>
 
 ---
